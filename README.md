@@ -3,7 +3,7 @@ Impossible!😱
 Im already learning Node.js. Hope i will make it!
 
 
-To run some of the scripts and see the changes(in db.json), type in console such commands:
+To run some of the scripts and see the changes(in db.json), type in console such commands:           
 npm run generate = generate 5 random contacts,     
 npm run add-one = add one new contact,     
 npm run get-all = get all the contacts in console,     
